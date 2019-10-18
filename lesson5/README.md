@@ -35,7 +35,10 @@
   ```
     {
       code: 200,
-      data: {请求数据},
+      data: {
+        name: 'xx',
+        email: 'xx@xx.com'
+      },
       msg: '上传成功'
     }
   ```

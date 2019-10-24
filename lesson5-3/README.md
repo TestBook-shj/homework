@@ -9,3 +9,5 @@
 `npm run serve`
 
 ## 运行效果图
+
+![运行示意图](https://github.com/TestBook-shj/homework/blob/master/static/lesson5-3.gif)

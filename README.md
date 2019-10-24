@@ -4,4 +4,6 @@
 
 ## [【作业第 3 周】[webpack 配置]](https://github.com/TestBook-shj/homework/tree/master/lesson3)
 
-## [【作业第 5 周】[koa 应用]](https://github.com/TestBook-shj/homework/tree/master/lesson5)
+## [【作业第 5 周】[koa 应用]](https://github.com/TestBook-shj/homework/tree/master/lesson5-1)
+
+## [【作业第 5 周】[vee-validate 应用]](https://github.com/TestBook-shj/homework/tree/master/lesson5-3)

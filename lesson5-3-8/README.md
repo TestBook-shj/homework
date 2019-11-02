@@ -10,4 +10,4 @@
 
 ## 运行效果图
 
-![运行示意图](https://github.com/TestBook-shj/homework/blob/master/static/lesson5-3.gif)
+![运行示意图](https://user-images.githubusercontent.com/16339446/68063740-64af5780-fd4e-11e9-9b30-526753592fad.gif)

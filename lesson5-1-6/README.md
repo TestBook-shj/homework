@@ -43,4 +43,4 @@
     }
   ```
 
-  ![运行示意图](https://github.com/TestBook-shj/homework/blob/master/static/lesson5-1.gif)
+  ![运行示意图](https://user-images.githubusercontent.com/16339446/68063677-f79bc200-fd4d-11e9-8f36-11cb23398f90.gif)

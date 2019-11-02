@@ -6,4 +6,6 @@
 
 ## [【作业第 5 周】[koa 应用]](https://github.com/TestBook-shj/homework/tree/master/lesson5-1)
 
-## [【作业第 5 周】[vee-validate 应用]](https://github.com/TestBook-shj/homework/tree/master/lesson5-3)
+## [【作业第 5 周】[vee-validate 应用]](https://github.com/TestBook-shj/homework/tree/master/lesson5-3-8)
+
+## [【作业第 5 周】[vee-validate 应用 注册及忘记密码页面]](https://github.com/TestBook-shj/homework/tree/master/lesson5-3-15)

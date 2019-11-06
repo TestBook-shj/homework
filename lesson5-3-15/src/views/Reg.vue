@@ -12,7 +12,7 @@
           <div class="layui-tab-item layui-show">
             <div class="layui-form layui-form-pane">
               <form method="post">
-                <!-- 账号 -->
+                <!-- 账号输入 -->
                 <div class="layui-form-item">
                   <validation-provider rules="required|email" name="账号" v-slot="{ errors }">
                     <div class="layui-row">
@@ -34,7 +34,7 @@
                     </div>
                   </validation-provider>
                 </div>
-                <!-- 昵称 -->
+                <!-- 昵称输入 -->
                 <div class="layui-form-item">
                   <validation-provider rules="required|min:4" name="昵称" v-slot="{ errors }">
                     <label for="L_username" class="layui-form-label">昵称</label>
@@ -53,7 +53,7 @@
                     </div>
                   </validation-provider>
                 </div>
-                <!-- 密码 -->
+                <!-- 密码输入 -->
                 <div class="layui-form-item">
                   <validation-provider rules="required|min:6|max:16" name="密码" v-slot="{ errors }">
                     <div class="layui-row">
@@ -124,6 +124,7 @@
                     </div>
                   </validation-provider>
                 </div>
+                <!-- 按钮 -->
                 <div class="layui-form-item">
                   <button class="layui-btn" lay-filter="*" lay-submit>立即注册</button>
                 </div>

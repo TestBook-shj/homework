@@ -13,6 +13,7 @@ import { length } from 'vee-validate/dist/rules';
           <div class="layui-tab-item layui-show">
             <div class="layui-form layui-form-pane">
               <form method="post">
+                <!-- 账号输入 -->
                 <div class="layui-form-item">
                   <validation-provider rules="required|email" name="用户名" v-slot="{ errors }">
                     <label for="L_email" class="layui-form-label">用户名</label>
@@ -31,6 +32,7 @@ import { length } from 'vee-validate/dist/rules';
                     </div>
                   </validation-provider>
                 </div>
+                <!-- 密码输入 -->
                 <div class="layui-form-item">
                   <validation-provider rules="required|min:6" name="密码" v-slot="{ errors }">
                     <label for="L_pass" class="layui-form-label">密码</label>
@@ -49,6 +51,7 @@ import { length } from 'vee-validate/dist/rules';
                     </div>
                   </validation-provider>
                 </div>
+                <!-- 验证码输入 -->
                 <div class="layui-form-item">
                   <validation-provider rules="required|length:4" name="验证码" v-slot="{ errors }">
                     <div class="layui-row">
@@ -72,6 +75,7 @@ import { length } from 'vee-validate/dist/rules';
                     </div>
                   </validation-provider>
                 </div>
+                <!-- 按钮 -->
                 <div class="layui-form-item">
                   <button class="layui-btn">立即登录</button>
                   <span style="padding-left:20px;">

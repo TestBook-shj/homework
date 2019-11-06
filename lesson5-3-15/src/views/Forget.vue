@@ -54,6 +54,7 @@
 
             <div class="layui-form layui-form-pane">
               <form method="post">
+                <!-- 账号输入 -->
                 <div class="layui-form-item">
                   <validation-provider rules="required|email" name="账号" v-slot="{ errors }">
                     <label for="L_email" class="layui-form-label">用户名</label>
@@ -72,6 +73,7 @@
                     </div>
                   </validation-provider>
                 </div>
+                <!-- 验证码输入 -->
                 <div class="layui-form-item">
                   <validation-provider rules="required|length:4" name="验证码" v-slot="{ errors }">
                     <div class="layui-row">
